@@ -13,7 +13,8 @@
   https://bbs.elecfans.com/jishu_1835604_1_1.html  
   
 * 树莓派4B从拆封到python编程  
-  https://www.pianshen.com/article/40661041119/
+  https://www.pianshen.com/article/40661041119/  
+  https://www.bilibili.com/read/cv4023024/
 
 * 树莓派4UART多串口配置通信  
   https://www.it610.com/article/1293239966809268224.htm    
