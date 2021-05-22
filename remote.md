@@ -11,3 +11,6 @@ cpolar
 * https://zhuanlan.zhihu.com/p/104197972
 * https://www.cnblogs.com/liujiangyi/p/8267029.html
 * https://www.zhihu.com/question/42433730
+* 十步配置TeamViewer远程控制树莓派4B  
+https://blog.csdn.net/huawuqueisme/article/details/98251087
+
