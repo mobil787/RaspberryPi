@@ -22,5 +22,15 @@
 
 * 树莓派开发专栏  
   https://blog.csdn.net/qq21497936/article/details/102478062#%E6%A0%91%E8%8E%93%E6%B4%BE%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F
-* 
+  
+* 树莓派上安装和使用串口调试工具xgcom
+  * https://www.arduino.cn/thread-45486-1-1.html  
+  * https://www.waveshare.net/study/article-606-1.html
+  * https://blog.csdn.net/ropai/article/details/12955341
+  * https://blog.csdn.net/a_ran/article/details/40511711?utm_source=blogxgwz6
+  * remmina   
+    https://www.zhihu.com/question/415357774
+    https://linux.cn/article-8493-1.html
+  * 
+ 
 
