@@ -10,7 +10,7 @@
    https://www.bilibili.com/read/cv4690979/  
 
 *  树莓派4代4b/3b+传感器IO扩展板带  
-   https://i-item.jd.com/10029484934814.html
+   https://i-item.jd.com/10029484934814.html  
    https://mc.dfrobot.com.cn/thread-307502-1-1.html
 
 *  
