@@ -21,7 +21,8 @@
   https://blog.csdn.net/qq21497936/article/details/79758975
 
 * 树莓派开发专栏  
-  https://blog.csdn.net/qq21497936/article/details/102478062#%E6%A0%91%E8%8E%93%E6%B4%BE%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F
+  https://blog.csdn.net/qq21497936/article/details/102478062#%E6%A0%91%E8%8E%93%E6%B4%BE%E5%BC%80%E5%8F%91%E4%B8%93%E6%A0%8F  
+  https://blog.csdn.net/warrah/category_9285703.html
   
 * 树莓派上安装和使用串口调试工具xgcom
   * https://www.arduino.cn/thread-45486-1-1.html  
@@ -33,4 +34,5 @@
     https://linux.cn/article-8493-1.html
   * 
  
+ * 
 
