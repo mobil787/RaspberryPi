@@ -2,7 +2,9 @@
 
 * 树莓派4B学习笔记（10）—— PWM输出  
   https://blog.csdn.net/weixin_44415639/article/details/114842813  
-  https://blog.csdn.net/weixin_44415639/category_10858866.html
+  https://blog.csdn.net/weixin_44415639/category_10858866.html    
+    
+  https://blog.csdn.net/naiva/category_9630009.html
   
 * 树莓派4代开发板  
   https://blog.csdn.net/ICXBK/article/details/107204082  
