@@ -9,4 +9,10 @@
   * https://blog.csdn.net/weixin_46145842/article/details/111873759  
 
 
+* others
+  * https://zhuanlan.zhihu.com/p/27624113  
+  * https://bbs.huaweicloud.com/blogs/163253  
+  * https://shumeipai.nxez.com/tag/homeassistant
+
+
 * 
