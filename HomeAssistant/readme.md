@@ -3,6 +3,8 @@
   * https://zhuanlan.zhihu.com/p/28057345  
   * https://sspai.com/post/40113    
   *  Home Assistant 中文文档: https://home-assistant.cc/
+  *  https://sspai.com/column/162  
+  *  https://sspai.com/u/9zq1jkme/posts  
   
 
 * CSDN
