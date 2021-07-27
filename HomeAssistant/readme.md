@@ -1,7 +1,8 @@
 * 少数派
   * https://sspai.com/post/40075?utm_source=zhihu&utm_medium=zhuanlan  
   * https://zhuanlan.zhihu.com/p/28057345  
-  * https://sspai.com/post/40113  
+  * https://sspai.com/post/40113    
+  *  Home Assistant 中文文档: https://home-assistant.cc/
   
 
 * CSDN
