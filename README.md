@@ -40,4 +40,7 @@
  * others
     * https://blog.csdn.net/weixin_46145842/article/details/111334641  
 
+* 树莓派编程实用教程  
+  * https://github.com/wxlscm/raspberry_tutorial
+  * 
 
