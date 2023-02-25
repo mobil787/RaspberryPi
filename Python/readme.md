@@ -26,3 +26,10 @@ https://blog.csdn.net/happytofly/article/details/80124030
 * Python - 100天从新手到大师  
 https://github.com/jackfrued/Python-100-Days  
 
+---
+
+* 《动手开发一个 Python 小项目》书中收录了 80 多个 Python 项目，每个项目都是一个独立章节，其中包括项目实例、源码、进一步开发建议等内容。书中每个项目代码量最多只有 200 多行，对新手友好，适合快速上手学习。  
+https://inventwithpython.com/bigbookpython/   
+
+* python-tutorial GitHub 上一个开源 Python 实用教程。包括了 Python 基础，Python 高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。教程中包含的范例，涵盖了大多数 Python 日常脚本任务，可作为入门学习资料，亦可作为工作中编写脚本的参考实现。  
+https://github.com/shibing624/python-tutorial  
